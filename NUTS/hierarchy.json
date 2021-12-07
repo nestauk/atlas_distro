@@ -22,7 +22,7 @@
     ]
   },
   "2": {
-    "name": "BULGARIA",
+    "name": "Bulgaria",
     "id": "2",
     "rootId": 2,
     "level": 0,
@@ -41,7 +41,7 @@
     ]
   },
   "4": {
-    "name": "KYPROS",
+    "name": "Kýpros",
     "id": "4",
     "rootId": 4,
     "level": 0,
@@ -3774,7 +3774,7 @@
     ]
   },
   "279": {
-    "name": "Réunion",
+    "name": "La Réunion",
     "id": "279",
     "pid": 79,
     "rootId": 11,
@@ -12340,14 +12340,14 @@
     "level": 3
   },
   "1334": {
-    "name": "South-East (IE)",
+    "name": "South-East",
     "id": "1334",
     "pid": 304,
     "rootId": 15,
     "level": 3
   },
   "1335": {
-    "name": "South-West (IE)",
+    "name": "South-West",
     "id": "1335",
     "pid": 304,
     "rootId": 15,
@@ -19547,7 +19547,7 @@
     ]
   },
   "2293": {
-    "name": "Jan Mayen and Svalbard\r\n   \r\n",
+    "name": "Jan Mayen and Svalbard",
     "id": "2293",
     "pid": 104,
     "rootId": 24,
@@ -19621,7 +19621,7 @@
     "level": 3
   },
   "2303": {
-    "name": "Jan Mayen\r\n   \r\n",
+    "name": "Jan Mayen",
     "id": "2303",
     "pid": 2293,
     "rootId": 24,
