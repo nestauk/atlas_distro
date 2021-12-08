@@ -4,3 +4,6 @@
 - NUTS, add parent ids to `hierarchy.json` (#10)
 - NUTS, add `rootId` (#12)
 - NUTS, add resolution `10M`, update some texts in `3M` files (#14)
+- NUTS, enhance distributed files (#16)
+	- `unifiedNuts.json`: `year` is now a `Number`
+	- `hierarchy.json`: `id` is now a `Number`
