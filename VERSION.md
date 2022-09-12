@@ -1,1 +1,1 @@
-@svizzle/atlas@0.6.0
+@svizzle/atlas@0.8.0
