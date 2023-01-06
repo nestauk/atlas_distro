@@ -1,3 +1,11 @@
+# @svizzle/atlas v0.9.0
+
+NUTS, added overseas bboxes/centroids, augmented shapes
+
+- provide oversea ids (`NUTS/overseaIds.json`, `NUTS/overseaIdsGroups.js`)
+- provide bounding boxes for all years/levels for the supported resolutions (`NUTS/allBboxes.json`)
+- topojsons: augment all regions with `bbox`, `centroid`, `isOversea`
+
 # @svizzle/atlas v0.8.0
 
 - convert all JSON assets to javascript files, to avoid importing `.json`,
